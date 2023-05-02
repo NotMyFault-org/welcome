@@ -2,16 +2,19 @@ newPRWelcomeComment: >
   Yay, your first pull request towards Jenkins core was created successfully!
   Thank you so much!
   <br>
-  A contributor will be by to give feedback soon.
-  In the meantime, you can join the [chats](https://app.gitter.im/#/room/#jenkins-ci:matrix.org) and [community forums](https://community.jenkins.io/) to connect with other Jenkins users, developers and maintainers.
+  <br>
+  A contributor will be by to provide feedback soon.
+  Meanwhile, you can join the [chats](https://app.gitter.im/#/room/#jenkins-ci:matrix.org) and [community forums](https://community.jenkins.io/) to connect with other Jenkins users, developers, and maintainers.
 
 firstPRMergeComment: >
-  Congratulations on getting your very first Jenkins core pull request merged 🎉🥳.
+  Congratulations on getting your very first Jenkins core pull request merged 🎉🥳
+  <br>
   <br>
   This is a fantastic achievement, and we're thrilled to have you as part of our community!
   Thank you for your valuable input, and we look forward to seeing more of your contributions in the future!
   <br>
-  We would like to invite you to join the [community chats](https://app.gitter.im/#/room/#jenkins-ci:matrix.org) and [further participation](https://www.jenkins.io/participate/) in the Jenkins project 😊
+  <br>
+  We would like to invite you to join the [community chats](https://app.gitter.im/#/room/#jenkins-ci:matrix.org) and [forums](https://community.jenkins.io/) to meet other Jenkins contributors 😊
    
   <a href="https://www.jenkins.io/participate/" target="_blank">
    <picture>
